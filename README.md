@@ -15,4 +15,4 @@ We use the RNN and LSTM algorithms to find the price prediction.
 7. Performance Measure RMSE is calculated for the predicted test dataset
 8. Finally predicted values are visualized
 
-https://miro.medium.com/max/1124/1*Ve5wHIxlNWhFh672mW71bQ.png
+![alt text](https://miro.medium.com/max/1124/1*Ve5wHIxlNWhFh672mW71bQ.png)
